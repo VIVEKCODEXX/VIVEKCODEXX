@@ -1,9 +1,7 @@
-Name: Vivek
-Username: VIVEKCODEX
-Level: Tech Baby 🍼👶 (Day 1)
+# VIVEKCODEXX 🔥🚀
+## Tech Baby Journey Begins
+I'm VIVEKCODEXX — Future Tech Bro 💪
 Journey: Python + Web Development
-Mission: Zero to Tech Hero 🚀💪
-Dream: High-Paying Jobs + Freelance + International Remote Jobs 💸
-Mindset: Willingness + Hungry + Pure 🔥
-Github: Loading... ⏳
+Mission: From Zero to Tech Hero 🚀
+GitHub Journey Day 1 ✅
 
